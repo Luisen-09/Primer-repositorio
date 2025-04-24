@@ -6,6 +6,8 @@ public class Calculadora {
 		// TODO Auto-generated method stub
 		int numero1, numero2;
 		Scanner sc=new Scanner(System.in);
+
+	//Hola a todos!!
 		
 		System.out.print("Introduce primer número:");
 		numero1=sc.nextInt();
